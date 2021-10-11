@@ -264,6 +264,7 @@ nav {
 }
 .project__img {
   width: 100%;
+  padding: 20px 20px;
   transition: all 500ms ease;
 }
 .project__wrapper {
